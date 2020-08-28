@@ -36,16 +36,7 @@ public class StringBufferSorting {
 		t.add(new StringBuffer("Ironman"));
 		t.add(new StringBuffer("Sanju"));
 		
-		
-		
-		
-		
-		
 		System.out.println(t);
-
-		
-		
-		
 
 	}
 
